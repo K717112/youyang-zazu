@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.tmp
+_clean.json
+_parts.json
+_index.md
+vol_*.txt
+clean_*.txt
+trans_*.txt
+.DS_Store
+Thumbs.db
